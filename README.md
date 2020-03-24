@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-Miwok App
+
+Sanskrit App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
+This app displays lists of vocabulary words for the user to learn the Sanskrit language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
@@ -49,4 +49,3 @@ the License.
 =======
 # Sanskrit-App
 Based on Udacity app course -Miwok App for Sanskrit App.
->>>>>>> 4b604af27ba91fe045ae22df0f08b886d9106316
