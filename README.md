@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Miwok App
 ===================================
 
@@ -45,3 +46,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# Sanskrit-App
+Based on Udacity app course -Miwok App for Sanskrit App.
+>>>>>>> 4b604af27ba91fe045ae22df0f08b886d9106316
